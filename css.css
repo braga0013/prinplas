@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(4, 4, 26);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.form{
+    margin-top: 70px;
+    width: 400px;
+    border: solid white;
+    padding: 30px;
+    text-align: left;
+    background-color: rgb(85, 30, 30);
+    border-radius: 40px 0px 40px 0px;
+}
+
+.titulo1{
+    text-align: center;
+
+}
+
+#botao{
+    display: flex;
+
+}
+
+label{
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
